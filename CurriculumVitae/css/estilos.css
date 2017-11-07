@@ -1,0 +1,14 @@
+
+footer {
+  padding-top: 20px;
+  background-color: black;
+  color: white;
+}
+
+body {
+  background-color: lightblue;
+}
+
+section img {
+  border-radius: 10%;
+}
